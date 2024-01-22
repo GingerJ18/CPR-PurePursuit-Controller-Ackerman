@@ -22,7 +22,7 @@ Controlador de Seguimiento de Trayectoria Pure Pursuit para ROS (Modificado desd
 ```bash 
     $chmod +x [ruta_a_tu_espacio_de_trabajo]/scripts/show_trajectory.py
     $chmod +x [ruta_a_tu_espacio_de_trabajo]/scripts/test_send_ref_path.py
-
+```
 1. Correr AMCL:
 
 ```bash 
