@@ -1,0 +1,2 @@
+CPR_PurePursuitController:amcl
+-DCATKIN_DEVEL_PREFIX=/home/jose/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/jose/ros_workspace/install -G Unix Makefiles
