@@ -1,0 +1,8 @@
+prefix=/home/jose/ros_workspace/devel
+
+Name: pure_pursuit_controller
+Description: Description of pure_pursuit_controller
+Version: 0.2.2
+Cflags: -I/home/jose/ros_workspace/src/CPR_PurePursuitController/include
+Libs: -L${prefix}/lib -lPurePursuitController
+Requires: 

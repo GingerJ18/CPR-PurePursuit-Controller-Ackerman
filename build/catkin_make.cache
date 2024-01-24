@@ -1,0 +1,2 @@
+CPR_PurePursuitController:ackermann_gazebo-master/racebot_control:ackermann_gazebo-master/racebot_description:ackermann_gazebo-master/racebot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/jose/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/jose/ros_workspace/install -G Unix Makefiles
